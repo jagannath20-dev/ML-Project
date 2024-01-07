@@ -1,4 +1,4 @@
-from src.mlProject.logging import logger
+from src.mlProject import logger
 
 
-logger.info("This is our custome Log")
+logger.info("My Name is Jagnnath")
